@@ -9,5 +9,7 @@ dither.py INPUT_FILE \[bit depth (1...8)\] \[color type (grey, color)\] \[dither
 
 ## dither/ciedither
 this is a failed experiment with colorimetry
+
 main file is ciedither/ciedither.py
+
 cie.py is also a fast (for idiomatic python) colorimetry library so if that's your thing
